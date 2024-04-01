@@ -1,0 +1,34 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    font-family: "Rubik", sans-serif;
+}
+
+#registerform {
+  position: relative;
+}
+.line2 {
+  width: 27%;
+  position: absolute;
+  top: 45px;
+  right: 49px;
+}
+.line1 {
+  width: 27%;
+  position: absolute;
+  top: 45px;
+}
+.btn-success {
+    background-color: hsl(106, 69%, 42%);
+    border-radius: 5px;
+}
+#confirm__form{
+    height: 8vh;
+}
+#form3Example1cg{
+    background-color: #fff;
+}
+.card-body {
+    background-color: whitesmoke;
+}
